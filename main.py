@@ -1,2 +1,2 @@
-for i in range(0,11):
-  print(i)
+Answer=input('what is your name?')
+print('hello '+Answer)
